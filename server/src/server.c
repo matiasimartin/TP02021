@@ -31,6 +31,6 @@ int main(void) {
 	return EXIT_SUCCESS;
 }
 
-void iterator(t_log* logger, char* value) {
+void iterator(char* value) {
 	log_info(logger,"%s\n", value);
 }
