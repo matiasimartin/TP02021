@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/utnso/tp0/server"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"utils.h": "c"
+		}
+	}
+}
