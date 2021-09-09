@@ -4,12 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "/home/utnso/tp0/server"
+			"path": "/home/utnso/TP02021/server"
 		}
-	],
-	"settings": {
-		"files.associations": {
-			"utils.h": "c"
-		}
-	}
+	]
 }
